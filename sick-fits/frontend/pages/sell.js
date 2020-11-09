@@ -1,6 +1,6 @@
 const Sell = props => (
     <div>
-        <p>Hey!</p>
+        <p>Sell!</p>
     </div>
 )
 
